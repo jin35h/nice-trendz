@@ -1,0 +1,25 @@
+Temporary remote stock image references. Replace with original/licensed photos before production.
+
+fabric-suiting.jpg
+https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1400&q=85
+
+fabric-rolls.jpg
+https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1400&q=85
+
+menswear-formal.jpg
+https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=1400&q=85
+
+menswear-suit.jpg
+https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?auto=format&fit=crop&w=1400&q=85
+
+wedding-wear.jpg
+https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?auto=format&fit=crop&w=1400&q=85
+
+tailoring.jpg
+https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1400&q=85
+
+fabric-detail.jpg
+https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=1400&q=85
+
+menswear-editorial.jpg
+https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1400&q=85

@@ -1,0 +1,15 @@
+# NICE TRENDZ Pre-launch Checklist
+- [ ] Replace example.com with the final domain.
+- [ ] Verify exact address and map pin.
+- [ ] Confirm hours and weekly closing day.
+- [ ] Confirm WhatsApp-enabled number and office number.
+- [ ] Verify image appropriateness and licensing.
+- [ ] Add real customer testimonials only with permission.
+- [ ] Link the correct Google Business Profile/review URL.
+- [ ] Verify brand names before any stock claims.
+- [ ] Confirm exchange/return/cancellation and alteration policies.
+- [ ] Test Gujarati and Hindi with native speakers.
+- [ ] Test mobile navigation, form, WhatsApp, map and social links.
+- [ ] Run Lighthouse/PageSpeed and validate JSON-LD.
+- [ ] Submit sitemap in Search Console after domain setup.
+- [ ] Configure HTTPS and redirects.
